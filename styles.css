@@ -1,0 +1,28 @@
+body {
+    font-family:Georgia, serif;
+    background-color: black;
+    color: white;
+}
+.title {
+    text-align: center;
+} 
+.titlepic {
+    text-align: center;
+    margin-left: 30px;
+    }
+.aboutme {
+    text-align: center;
+
+}
+#name {
+    color: hotpink
+}
+#strongone {
+    color: red;
+}
+#strongtwo {
+    color: greenyellow;
+}
+#strongthree{
+    color: rgb(19, 182, 223);
+}
